@@ -8,7 +8,7 @@ Neste teste serão avaliados seus conhecimentos e a metodologia aplicada no dese
 
 # O Desafio
 
-O desafio é criar um servidor que provê uma API com o objetivo de fornecer informações sobre o transporte público da cidade de São Paulo, similar a API Olho Vivo.
+O desafio é criar um servidor que provê uma API com o objetivo de fornecer informações sobre o transporte público da cidade de São Paulo, similar a [API **Olho Vivo**](api.md).
 
 # Requisitos
 
@@ -16,7 +16,7 @@ Esses requisitos são obrigatórios e devem ser desenvolvidos para a entrega do 
 ## CRUD
 Implementar as operações de criação (POST), consulta (GET) (Por Id e GetAll), atualização (PUT) e exclusão (DELETE) de todas as entidades do seguinte diagrama:
 
-![backend_diagrama](https://user-images.githubusercontent.com/129311001/228670982-13910d6f-f6e4-4819-b2c9-2369e2c82cff.png)
+![backend_diagrama](/imagens/backend_diagrama.png)
 
 ### Métodos
 
